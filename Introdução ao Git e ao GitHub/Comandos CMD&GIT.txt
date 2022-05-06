@@ -1,0 +1,28 @@
+Comandos terminal Git
+
+Windows/ linux
+
+dir/ls - conteudo dentro do diretorio
+
+cd - navegar entre as pastas
+
+cls/clear - limpar a tela do terminal
+
+mkdir - criar pastas no diretorio
+
+echo - criar arquivos
+
+del - deletar arquivos
+
+rmdir/rm - apagar repositorios [ /S /Q][-rf]
+
+------------------------------------------------
+
+git init - inicia
+
+git add - mover arquivos
+
+git commit - add um commit
+
+
+ 
